@@ -1,0 +1,17 @@
+{
+  "name": "jira",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jira.api.runner.js",
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "yargs": "^9.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node jira.api.runner"
+  },
+  "author": "",
+  "license": "ISC"
+}
